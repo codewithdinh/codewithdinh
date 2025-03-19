@@ -1,9 +1,9 @@
-<picture>
+<!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="http://m.gettywallpapers.com/wp-content/uploads/2021/05/4k-Wallpaper-Cool-scaled.jpg" width=900 >
  <source media="(prefers-color-scheme: light)" srcset="http://m.gettywallpapers.com/wp-content/uploads/2021/05/4k-Wallpaper-Cool-scaled.jpg" width=900>
  <img alt="YOUR-ALT-TEXT" src="http://m.gettywallpapers.com/wp-content/uploads/2021/05/4k-Wallpaper-Cool-scaled.jpg" width=900>
-</picture>
-<br></br>
+</picture> 
+<br></br> --->
 
 ![fading_line](https://github.com/codewithdinh/codewithdinh/assets/114113722/2a4f585d-9b09-4943-b4f5-6d06bd069e12)
 
